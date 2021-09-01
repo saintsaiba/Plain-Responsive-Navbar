@@ -118,6 +118,10 @@ ul a{
        background-color: rgb(233, 233, 233);
    }
 
+   .checkbox:checked~ul{
+       display:flex;
+   }
+
 
 
 }
